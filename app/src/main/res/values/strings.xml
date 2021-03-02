@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="id">ID</string>
+
+    <string name="name">Name</string>
+    <string name="last_name_profile">Last name</string>
+</resources>
